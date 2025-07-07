@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1718784953 source:c:\users\acer\desktop\upload git\[oop]circlegraphics\main.cpp
+	<iostream>
+	"msoftcon.h"
+
+1718785560 c:\users\acer\desktop\upload git\[oop]circlegraphics\msoftcon.h
+	<Windows.h>
+	<conio.h>
+	<math.h>
+
+1718785962 source:c:\users\acer\desktop\upload git\[oop]circlegraphics\msoftcon.cpp
+	"msoftcon.h"
+

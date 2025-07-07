@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1716981989 source:c:\users\acer\desktop\upload git\phanso\main.cpp
+	"phanso.h"
+
+1716981862 source:c:\users\acer\desktop\upload git\phanso\src\phanso.cpp
+	"phanso.h"
+	<iostream>
+	<algorithm>
+
+1716981775 c:\users\acer\desktop\upload git\phanso\include\phanso.h
+
